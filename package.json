@@ -1,0 +1,22 @@
+{
+  "name": "ajs8-3-homework-part-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilya112k/ajs8-3-homework-part-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilya112k/ajs8-3-homework-part-2/issues"
+  },
+  "homepage": "https://github.com/ilya112k/ajs8-3-homework-part-2#readme",
+  "dependencies": {
+    "@ilya112k/ajs8-3-homework": "^1.0.0"
+  }
+}
